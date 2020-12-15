@@ -1,5 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <item>
 <version>1.0.2.0</version>
 <url>https://github.com/vishuofficial/avpn_client/raw/main/aVPN.zip</url>
-
+<mandatory>false</mandatory>
 </item>
